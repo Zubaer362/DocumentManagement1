@@ -37,4 +37,28 @@ document-management-app/
 - Node.js (v14 or higher)
 - MongoDB (local or Atlas)
 - Git
+  
+## App preview
+<img width="280" height="370" alt="1" src="https://github.com/user-attachments/assets/d0d21d26-a459-4a23-9a33-7abfcc5c2da0" />
+
+<img width="527" height="326" alt="3" src="https://github.com/user-attachments/assets/c4db91f7-1ae7-4869-a123-bf00c35a1d20" />
+
+
+<img width="525" height="326" alt="4" src="https://github.com/user-attachments/assets/9715fde2-9c59-46da-ae5e-dade8b5b4223" />
+
+<img width="279" height="374" alt="5" src="https://github.com/user-attachments/assets/cd67bd87-9abd-4243-9b55-c50cfa297f25" />
+
+<img width="279" height="278" alt="6" src="https://github.com/user-attachments/assets/79de5c77-dadf-4c8a-83b0-93b0bbe54468" />
+
+<img width="296" height="399" alt="7" src="https://github.com/user-attachments/assets/60546431-1987-46ef-b3e3-8acb2856a8a7" />
+
+<img width="286" height="305" alt="8" src="https://github.com/user-attachments/assets/52f907dc-d5a4-4b06-a434-c11ad6ebd242" />
+
+<img width="281" height="377" alt="9" src="https://github.com/user-attachments/assets/9842d29c-cb7f-4ef7-910d-7bf1ea75e749" />
+
+<img width="275" height="390" alt="10" src="https://github.com/user-attachments/assets/812736ec-2974-437d-a019-c41562d0e6d8" />
+
+
+
+
 
